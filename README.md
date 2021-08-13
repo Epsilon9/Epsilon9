@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on a Kaggle task
-- 🌱 I’m currently learning visualization using Plotly
+- 🔭 I’m currently working on a small project (sales related)
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on none
 - 🤔 I’m looking for help with duh visualization
 - 💬 Ask me about Data Analytics
