@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
+## 🚀 About Me
+I'm a Data Analyst
 
+## 🔗 Links
+[![linkedin](https://www.linkedin.com/in/sai-saran-b-5726a31b1/)
+
+## Little bit about me
 
 - 🔭 I’m currently working on a small project (sales related)
 - 🌱 I’m currently learning everything
@@ -12,3 +18,7 @@
 - ⚡ Fun fact: I am a novice at music production.
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=Epsilon9&&show_icons=true&title_color=00e600&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+## Languages and tools I use
+
+
