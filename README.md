@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hi there 👋 ![](https://api.visitorbadge.io/api/VisitorHit?user=Epsilon9&repo=README.md&countColor=%237B1E7A)
+
 
 ## 🚀 About Me
 I'm a Data Analyst 
